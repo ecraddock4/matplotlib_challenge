@@ -23,5 +23,3 @@ In addition, you will be expected to produce the following three pie charts:
 * % of Total Fares by City Type
 * % of Total Rides by City Type
 * % of Total Drivers by City Type
-
-As final considerations:
