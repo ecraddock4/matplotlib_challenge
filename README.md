@@ -1,6 +1,4 @@
-## Conclusion
-For this driving company analysis, it is clear that drivers in urband environments are paid more because of the rate of rides and volume of rides.
-A whoping 78% of drivers are in urban areas, while fares in urban areas take up 62%. That means there are more rides to share in urban areas.
+
 
 
 ## Option 1: Pyber
@@ -23,3 +21,10 @@ In addition, you will be expected to produce the following three pie charts:
 * % of Total Fares by City Type
 * % of Total Rides by City Type
 * % of Total Drivers by City Type
+
+## Conclusion
+For this driving company analysis, it is clear that drivers in urband environments are paid more because of the rate of rides and volume of rides.
+A whoping 78% of drivers are in urban areas, while fares in urban areas take up 62%. That means there are more rides to share in urban areas.
+
+![Ride Share Plot](Images/rideshare.png)
+![Drivers](Images/total_drivers.png) ![Fares](Images/total_fares.png) ![Rides](Images/total_rides.png)
